@@ -1,3 +1,4 @@
 # My-Oden-Project-Assignments
 
-Recipes used in index.html are from AllRecipes.com
+These are all projects from The Oden Project
+    - Recipes and images used in first prject are from AllRecipes.com
